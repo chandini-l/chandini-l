@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @chandini-l
-- 👀 I’m interested in app development
+- 👋 Hi,
+- 👀 I’m interested 
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me chandinigowda2005@gmail.com
+- 📫 How to reach me
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
